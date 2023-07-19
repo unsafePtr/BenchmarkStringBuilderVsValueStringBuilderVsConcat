@@ -1,4 +1,3 @@
-﻿using BenchmarkDotNet.Code;
-using BenchmarkStringBuilderVsValueStringBuilderVsConcat;
+﻿using BenchmarkStringBuilderVsValueStringBuilderVsConcat;
 
 BenchmarkDotNet.Running.BenchmarkRunner.Run<BanchmarkTest>();
